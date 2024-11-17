@@ -1,0 +1,1 @@
+This project aims to predict customer churn using logistic regression. Customer churn refers to the loss of customers or clients. By predicting churn, businesses can take proactive measures to retain customers and improve their services.
